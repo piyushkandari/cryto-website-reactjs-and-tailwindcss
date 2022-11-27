@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/css/main.4db182c0.css",
-    "main.js": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/js/main.8202119b.js",
-    "static/media/newsletter-bg.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/newsletter-bg.a5d5358de8e84afe98cb.png",
-    "static/media/hero-img.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
-    "static/media/feature-2-img.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/feature-2-img.cf233659a120d86cd676.png",
-    "static/media/feature-3-img.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
-    "static/media/why-img.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/why-img.83f7e1610dd390441337.png",
-    "static/media/feature-1-img.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
-    "static/media/newsletter-box.png": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/newsletter-box.dd5db68847295ec1ef17.png",
-    "static/media/logo.svg": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/media/logo.e44a93b92960b7a7a870e08a3080d60e.svg",
-    "index.html": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/index.html",
-    "main.4db182c0.css.map": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/css/main.4db182c0.css.map",
-    "main.8202119b.js.map": "/piyushkandari/cryto-website-reactjs-and-tailwindcss/static/js/main.8202119b.js.map"
+    "main.css": "/cryto-website-reactjs-and-tailwindcss/static/css/main.6ca3e008.css",
+    "main.js": "/cryto-website-reactjs-and-tailwindcss/static/js/main.5cdb372e.js",
+    "static/media/newsletter-bg.png": "/cryto-website-reactjs-and-tailwindcss/static/media/newsletter-bg.a5d5358de8e84afe98cb.png",
+    "static/media/hero-img.png": "/cryto-website-reactjs-and-tailwindcss/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
+    "static/media/feature-2-img.png": "/cryto-website-reactjs-and-tailwindcss/static/media/feature-2-img.cf233659a120d86cd676.png",
+    "static/media/feature-3-img.png": "/cryto-website-reactjs-and-tailwindcss/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
+    "static/media/why-img.png": "/cryto-website-reactjs-and-tailwindcss/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/feature-1-img.png": "/cryto-website-reactjs-and-tailwindcss/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
+    "static/media/newsletter-box.png": "/cryto-website-reactjs-and-tailwindcss/static/media/newsletter-box.dd5db68847295ec1ef17.png",
+    "static/media/logo.svg": "/cryto-website-reactjs-and-tailwindcss/static/media/logo.e44a93b92960b7a7a870e08a3080d60e.svg",
+    "index.html": "/cryto-website-reactjs-and-tailwindcss/index.html",
+    "main.6ca3e008.css.map": "/cryto-website-reactjs-and-tailwindcss/static/css/main.6ca3e008.css.map",
+    "main.5cdb372e.js.map": "/cryto-website-reactjs-and-tailwindcss/static/js/main.5cdb372e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4db182c0.css",
-    "static/js/main.8202119b.js"
+    "static/css/main.6ca3e008.css",
+    "static/js/main.5cdb372e.js"
   ]
 }
